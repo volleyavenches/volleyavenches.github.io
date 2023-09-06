@@ -21,7 +21,7 @@ figure figcaption {
     padding-bottom: 2rem;
 
     content: "";
-    background-image: url('/balls.jpg');
+    background-image: url('balls.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ figure figcaption {
     margin: 0 1.5rem;
     padding: 2rem;
     content: "";
-    background-image: url('/balls_bg.jpg');
+    background-image: url('balls_bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
