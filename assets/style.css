@@ -58,3 +58,88 @@ div.game-block {
     width: 1.5rem;
     max-width: 45px;
 }
+
+.scorekeeper-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    align-items: stretch;
+}
+
+.scorekeeper-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #dfe3e8;
+    border-radius: 0.75rem;
+    box-shadow: 0 2px 8px rgba(59, 67, 81, 0.06);
+    overflow: hidden;
+}
+
+@media (max-width: 900px) {
+    .scorekeeper-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.scorekeeper-card-header {
+    padding: 1rem 1.25rem 0.5rem;
+    border-bottom: 1px solid #eef2f5;
+}
+
+.scorekeeper-card-header h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #2d3748;
+}
+
+.scorekeeper-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem 1.2rem;
+}
+
+.scorekeeper-game {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid #e6ebf1;
+    border-radius: 0.5rem;
+    background: #f8fafc;
+    width: min(100%, 700px);
+}
+
+.scorekeeper-game-meta,
+.scorekeeper-game-teams {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.scorekeeper-game-meta {
+    color: #4a5568;
+    font-size: 0.9rem;
+}
+
+.scorekeeper-game-teams {
+    font-weight: 600;
+    color: #1f2937;
+    line-height: 1.4;
+}
+
+.scorekeeper-vs {
+    color: #718096;
+    font-weight: 700;
+    font-size: 0.8rem;
+    margin: 0 0.25rem;
+}
+
+.scorekeeper-game-id {
+    color: #64748b;
+    font-size: 0.85rem;
+}
