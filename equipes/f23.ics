@@ -15,6 +15,10 @@ DTEND:20260919T100000Z
 SUMMARY:TSV Rechthalten F23 - Volley Avenches F23
 LOCATION:Turnhalle\, im Dorf\, 1718 Rechthalten
 GEO:46.7680995;7.239146
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle, im Dorf, 1718 R
+ echthalten";X-APPLE-RADIUS=10;X-TITLE="Turnhalle":geo:46.7680995,7.239146
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7680995&mlon=7.239146&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409092@volleyavenches.ch
@@ -24,6 +28,11 @@ DTEND:20260926T123000Z
 SUMMARY:VBC Fribourg F23 - Volley Avenches F23
 LOCATION:Salle Belluard B\, Derrière-les-Remparts\, 1700 Fribourg
 GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle Belluard B, Derrièr
+ e-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle Belluard B
+ ":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409093@volleyavenches.ch
@@ -34,6 +43,11 @@ SUMMARY:Volley Avenches F23 - Gibloux Volley F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409098@volleyavenches.ch
@@ -44,6 +58,11 @@ SUMMARY:Volley Avenches F23 - Volley Estavayer F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409101@volleyavenches.ch
@@ -53,6 +72,11 @@ DTEND:20261031T150000Z
 SUMMARY:VBC Belfaux F23 - Volley Avenches F23
 LOCATION:Halle des sports 1-3\, Chemin des Ecoliers\, 1782 Belfaux
 GEO:46.8202773;7.1056503
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports 1-3, Chem
+ in des Ecoliers, 1782 Belfaux";X-APPLE-RADIUS=10;X-TITLE="Halle des sports
+  1-3":geo:46.8202773,7.1056503
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8202773&mlon=7.1056503&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409103@volleyavenches.ch
@@ -63,6 +87,11 @@ SUMMARY:Volley Avenches F23 - TSV Rechthalten F23
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409107@volleyavenches.ch
@@ -73,6 +102,11 @@ SUMMARY:Volley Avenches F23 - VBC Fribourg F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409108@volleyavenches.ch
@@ -82,6 +116,11 @@ DTEND:20261118T203000Z
 SUMMARY:Gibloux Volley F23 - Volley Avenches F23
 LOCATION:Salle du CO\, route des Combes\, 1726 Farvagny
 GEO:46.720899;7.0709552
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du CO, route des Com
+ bes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle du CO":geo:46.720899,
+ 7.0709552
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.720899&mlon=7.0709552&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409113@volleyavenches.ch
@@ -91,6 +130,11 @@ DTEND:20261123T213000Z
 SUMMARY:Volley Estavayer F23 - Volley Avenches F23
 LOCATION:Amarante 3\, Route de la Chapelle\, 1470 Estavayer
 GEO:46.8484191;6.8512768
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Amarante 3, Route de la Ch
+ apelle, 1470 Estavayer";X-APPLE-RADIUS=10;X-TITLE="Amarante 3":geo:46.8484
+ 191,6.8512768
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8484191&mlon=6.8512768&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409116@volleyavenches.ch
@@ -101,6 +145,11 @@ SUMMARY:Volley Avenches F23 - VBC Belfaux F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409118@volleyavenches.ch
@@ -111,6 +160,11 @@ SUMMARY:Volley Avenches F23 - TSV Rechthalten F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409122@volleyavenches.ch
@@ -120,6 +174,11 @@ DTEND:20261219T133000Z
 SUMMARY:VBC Fribourg F23 - Volley Avenches F23
 LOCATION:Salle du Belluard A\, Derrière-les-Remparts\, 1700 Fribourg
 GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du Belluard A, Derri
+ ère-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle du Bell
+ uard A":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409123@volleyavenches.ch
@@ -130,6 +189,11 @@ SUMMARY:Volley Avenches F23 - Gibloux Volley F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409128@volleyavenches.ch
@@ -140,6 +204,11 @@ SUMMARY:Volley Avenches F23 - Volley Estavayer F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409131@volleyavenches.ch
@@ -149,6 +218,11 @@ DTEND:20270128T213000Z
 SUMMARY:VBC Belfaux F23 - Volley Avenches F23
 LOCATION:Halle des sports 1-3\, Chemin des Ecoliers\, 1782 Belfaux
 GEO:46.8202773;7.1056503
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports 1-3, Chem
+ in des Ecoliers, 1782 Belfaux";X-APPLE-RADIUS=10;X-TITLE="Halle des sports
+  1-3":geo:46.8202773,7.1056503
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8202773&mlon=7.1056503&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409133@volleyavenches.ch
@@ -158,6 +232,10 @@ DTEND:20270204T200000Z
 SUMMARY:TSV Rechthalten F23 - Volley Avenches F23
 LOCATION:Turnhalle\, im Dorf\, 1718 Rechthalten
 GEO:46.7680995;7.239146
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle, im Dorf, 1718 R
+ echthalten";X-APPLE-RADIUS=10;X-TITLE="Turnhalle":geo:46.7680995,7.239146
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7680995&mlon=7.239146&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409137@volleyavenches.ch
@@ -168,6 +246,11 @@ SUMMARY:Volley Avenches F23 - VBC Fribourg F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409138@volleyavenches.ch
@@ -177,6 +260,11 @@ DTEND:20270226T210000Z
 SUMMARY:Gibloux Volley F23 - Volley Avenches F23
 LOCATION:Salle de sport Pra Novi A\, Chemin des Cleyettes\, 1726 Farvagny
 GEO:46.722246390563;7.0603597814534
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A,
+  Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle de 
+ sport Pra Novi A":geo:46.722246390563,7.0603597814534
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.722246390563&mlon=7.0603
+ 597814534&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409143@volleyavenches.ch
@@ -186,6 +274,11 @@ DTEND:20270301T213000Z
 SUMMARY:Volley Estavayer F23 - Volley Avenches F23
 LOCATION:Amarante 3\, Route de la Chapelle\, 1470 Estavayer
 GEO:46.8484191;6.8512768
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Amarante 3, Route de la Ch
+ apelle, 1470 Estavayer";X-APPLE-RADIUS=10;X-TITLE="Amarante 3":geo:46.8484
+ 191,6.8512768
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8484191&mlon=6.8512768&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409146@volleyavenches.ch
@@ -196,5 +289,10 @@ SUMMARY:Volley Avenches F23 - VBC Belfaux F23
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 END:VCALENDAR

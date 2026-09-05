@@ -16,6 +16,11 @@ SUMMARY:Volley Avenches F2 - Volley Düdingen F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-417915@volleyavenches.ch
@@ -26,6 +31,11 @@ SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobiliar Volley Cup)
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409738@volleyavenches.ch
@@ -35,6 +45,11 @@ DTEND:20260923T204500Z
 SUMMARY:TV Murten Volleyball F2B - Volley Avenches F2
 LOCATION:Bernstrasse\, Bernstrasse\, 3280 Murten
 GEO:46.9300686;7.1208928
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bernstrasse, Bernstrasse, 
+ 3280 Murten";X-APPLE-RADIUS=10;X-TITLE="Bernstrasse":geo:46.9300686,7.1208
+ 928
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9300686&mlon=7.1208928&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409743@volleyavenches.ch
@@ -45,6 +60,11 @@ SUMMARY:Volley Avenches F2 - VBC Bösingen F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409751@volleyavenches.ch
@@ -54,6 +74,11 @@ DTEND:20261101T183000Z
 SUMMARY:Gibloux Volley F2B - Volley Avenches F2
 LOCATION:Salle de sport Pra Novi A-B\, Chemin des Cleyettes\, 1726 Farvagny
 GEO:46.7216407;7.0612781
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A-
+ B, Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle d
+ e sport Pra Novi A-B":geo:46.7216407,7.0612781
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7216407&mlon=7.0612781&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409758@volleyavenches.ch
@@ -64,6 +89,11 @@ SUMMARY:Volley Avenches F2 - TV Murten Volleyball F2A
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409764@volleyavenches.ch
@@ -73,6 +103,11 @@ DTEND:20261114T190000Z
 SUMMARY:VBC Sense F2 - Volley Avenches F2
 LOCATION:St. Antoni\, Schulhausstrasse\, 1713 St. Antoni
 GEO:46.8208233;7.2575311
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="St. Antoni, Schulhausstras
+ se, 1713 St. Antoni";X-APPLE-RADIUS=10;X-TITLE="St. Antoni":geo:46.8208233
+ ,7.2575311
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8208233&mlon=7.2575311&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409765@volleyavenches.ch
@@ -83,6 +118,11 @@ SUMMARY:Volley Avenches F2 - Gibloux Volley F2A
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409774@volleyavenches.ch
@@ -92,6 +132,10 @@ DTEND:20261126T214500Z
 SUMMARY:TSV Rechthalten F2 - Volley Avenches F2
 LOCATION:Turnhalle\, im Dorf\, 1718 Rechthalten
 GEO:46.7680995;7.239146
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle, im Dorf, 1718 R
+ echthalten";X-APPLE-RADIUS=10;X-TITLE="Turnhalle":geo:46.7680995,7.239146
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7680995&mlon=7.239146&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409778@volleyavenches.ch
@@ -101,6 +145,11 @@ DTEND:20261206T170000Z
 SUMMARY:VBC Kerzers F2 - Volley Avenches F2
 LOCATION:Schmittengässli\, Schulhausstrasse\, 3210 Kerzers
 GEO:46.9733864;7.1967656
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Schmittengässli, Schulhau
+ sstrasse, 3210 Kerzers";X-APPLE-RADIUS=10;X-TITLE="Schmittengässli":geo:4
+ 6.9733864,7.1967656
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9733864&mlon=7.1967656&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409783@volleyavenches.ch
@@ -111,6 +160,11 @@ SUMMARY:Volley Avenches F2 - VBC Schmitten F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409789@volleyavenches.ch
@@ -120,6 +174,11 @@ DTEND:20261219T153000Z
 SUMMARY:Volley Düdingen F2 - Volley Avenches F2
 LOCATION:Leimacker 1-3\, Leimacker\, 3186 Düdingen
 GEO:46.845297;7.1994595
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Leimacker 1-3, Leimacker, 
+ 3186 Düdingen";X-APPLE-RADIUS=10;X-TITLE="Leimacker 1-3":geo:46.845297,7.
+ 1994595
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.845297&mlon=7.1994595&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409793@volleyavenches.ch
@@ -130,6 +189,11 @@ SUMMARY:Volley Avenches F2 - TV Murten Volleyball F2B
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409798@volleyavenches.ch
@@ -139,6 +203,11 @@ DTEND:20270118T220000Z
 SUMMARY:VBC Bösingen F2 - Volley Avenches F2
 LOCATION:Spielhalle\, Fendringenstrasse\, 3178 Bösingen
 GEO:46.893568;7.2301877
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spielhalle, Fendringenstra
+ sse, 3178 Bösingen";X-APPLE-RADIUS=10;X-TITLE="Spielhalle":geo:46.893568,
+ 7.2301877
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.893568&mlon=7.2301877&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409806@volleyavenches.ch
@@ -149,6 +218,11 @@ SUMMARY:Volley Avenches F2 - Gibloux Volley F2B
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409813@volleyavenches.ch
@@ -158,6 +232,11 @@ DTEND:20270202T213000Z
 SUMMARY:TV Murten Volleyball F2A - Volley Avenches F2
 LOCATION:Bernstrasse\, Bernstrasse\, 3280 Murten
 GEO:46.9300686;7.1208928
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bernstrasse, Bernstrasse, 
+ 3280 Murten";X-APPLE-RADIUS=10;X-TITLE="Bernstrasse":geo:46.9300686,7.1208
+ 928
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9300686&mlon=7.1208928&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409819@volleyavenches.ch
@@ -168,6 +247,11 @@ SUMMARY:Volley Avenches F2 - VBC Sense F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409820@volleyavenches.ch
@@ -177,6 +261,11 @@ DTEND:20270217T214500Z
 SUMMARY:Gibloux Volley F2A - Volley Avenches F2
 LOCATION:Salle de sport Pra Novi A\, Chemin des Cleyettes\, 1726 Farvagny
 GEO:46.722246390563;7.0603597814534
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A,
+  Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle de 
+ sport Pra Novi A":geo:46.722246390563,7.0603597814534
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.722246390563&mlon=7.0603
+ 597814534&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409838@volleyavenches.ch
@@ -186,6 +275,10 @@ DTEND:20270220T180000Z
 SUMMARY:VBC Schmitten F2 - Volley Avenches F2
 LOCATION:Gwatt\, Gwattstrasse\, 3185 Schmitten
 GEO:46.8582129;7.2561859
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwatt, Gwattstrasse, 3185 
+ Schmitten";X-APPLE-RADIUS=10;X-TITLE="Gwatt":geo:46.8582129,7.2561859
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8582129&mlon=7.2561859&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409829@volleyavenches.ch
@@ -196,6 +289,11 @@ SUMMARY:Volley Avenches F2 - TSV Rechthalten F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409833@volleyavenches.ch
@@ -206,5 +304,10 @@ SUMMARY:Volley Avenches F2 - VBC Kerzers F2
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 END:VCALENDAR

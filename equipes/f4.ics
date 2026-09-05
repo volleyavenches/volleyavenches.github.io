@@ -16,6 +16,11 @@ SUMMARY:Volley Avenches F4 - CS Le Mouret F4b
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409939@volleyavenches.ch
@@ -25,6 +30,11 @@ DTEND:20261027T220000Z
 SUMMARY:VBC Belfaux F4 - Volley Avenches F4
 LOCATION:Halle des sports 1-3\, Chemin des Ecoliers\, 1782 Belfaux
 GEO:46.8202773;7.1056503
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports 1-3, Chem
+ in des Ecoliers, 1782 Belfaux";X-APPLE-RADIUS=10;X-TITLE="Halle des sports
+  1-3":geo:46.8202773,7.1056503
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8202773&mlon=7.1056503&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409944@volleyavenches.ch
@@ -35,6 +45,11 @@ SUMMARY:Volley Avenches F4 - VBC Kerzers F4
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409953@volleyavenches.ch
@@ -44,6 +59,11 @@ DTEND:20261113T214500Z
 SUMMARY:Gibloux Volley F4B - Volley Avenches F4
 LOCATION:Salle de sport Pra Novi A-B\, Chemin des Cleyettes\, 1726 Farvagny
 GEO:46.7216407;7.0612781
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A-
+ B, Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle d
+ e sport Pra Novi A-B":geo:46.7216407,7.0612781
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7216407&mlon=7.0612781&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409947@volleyavenches.ch
@@ -53,6 +73,11 @@ DTEND:20261114T210000Z
 SUMMARY:TSV Gurmels F4 - Volley Avenches F4
 LOCATION:Turnhalle 1\, Sportweg \,  Gurmels
 GEO:46.891653975883;7.1800804138184
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle 1, Sportweg ,  G
+ urmels";X-APPLE-RADIUS=10;X-TITLE="Turnhalle 1":geo:46.891653975883,7.1800
+ 804138184
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.891653975883&mlon=7.1800
+ 804138184&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409957@volleyavenches.ch
@@ -63,6 +88,11 @@ SUMMARY:Volley Avenches F4 - VBC Smile F4
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409961@volleyavenches.ch
@@ -73,6 +103,11 @@ SUMMARY:Volley Avenches F4 - TSV Rechthalten F4
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409965@volleyavenches.ch
@@ -82,6 +117,11 @@ DTEND:20261211T210000Z
 SUMMARY:Volley Düdingen F4B - Volley Avenches F4
 LOCATION:Leimacker 3\, Leimacker\, 3186 Düdingen
 GEO:46.845297;7.1994595
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Leimacker 3, Leimacker, 31
+ 86 Düdingen";X-APPLE-RADIUS=10;X-TITLE="Leimacker 3":geo:46.845297,7.1994
+ 595
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.845297&mlon=7.1994595&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409970@volleyavenches.ch
@@ -91,6 +131,11 @@ DTEND:20270113T210000Z
 SUMMARY:CS Le Mouret F4b - Volley Avenches F4
 LOCATION:Centre sportif A\, Route d'Oberried\, 1724 Le Mouret
 GEO:46.7471086;7.1785158
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Centre sportif A, Route d'
+ Oberried, 1724 Le Mouret";X-APPLE-RADIUS=10;X-TITLE="Centre sportif A":geo
+ :46.7471086,7.1785158
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7471086&mlon=7.1785158&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409975@volleyavenches.ch
@@ -101,6 +146,11 @@ SUMMARY:Volley Avenches F4 - VBC Belfaux F4
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409980@volleyavenches.ch
@@ -110,6 +160,11 @@ DTEND:20270130T193000Z
 SUMMARY:VBC Kerzers F4 - Volley Avenches F4
 LOCATION:Schmittengässli\, Schulhausstrasse\, 3210 Kerzers
 GEO:46.9733864;7.1967656
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Schmittengässli, Schulhau
+ sstrasse, 3210 Kerzers";X-APPLE-RADIUS=10;X-TITLE="Schmittengässli":geo:4
+ 6.9733864,7.1967656
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9733864&mlon=7.1967656&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409983@volleyavenches.ch
@@ -120,6 +175,11 @@ SUMMARY:Volley Avenches F4 - TSV Gurmels F4
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409989@volleyavenches.ch
@@ -130,6 +190,11 @@ SUMMARY:Volley Avenches F4 - Gibloux Volley F4B
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409993@volleyavenches.ch
@@ -139,6 +204,10 @@ DTEND:20270227T140500Z
 SUMMARY:VBC Smile F4 - Volley Avenches F4
 LOCATION:Halle de Gym
 GEO:46.7268891;7.139447
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Gym";X-APPLE-RADI
+ US=10;X-TITLE="Halle de Gym":geo:46.7268891,7.139447
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7268891&mlon=7.139447&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409997@volleyavenches.ch
@@ -148,6 +217,10 @@ DTEND:20270306T170000Z
 SUMMARY:TSV Rechthalten F4 - Volley Avenches F4
 LOCATION:Turnhalle\, im Dorf\, 1718 Rechthalten
 GEO:46.7680995;7.239146
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle, im Dorf, 1718 R
+ echthalten";X-APPLE-RADIUS=10;X-TITLE="Turnhalle":geo:46.7680995,7.239146
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7680995&mlon=7.239146&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-410001@volleyavenches.ch
@@ -158,5 +231,10 @@ SUMMARY:Volley Avenches F4 - Volley Düdingen F4B
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 END:VCALENDAR

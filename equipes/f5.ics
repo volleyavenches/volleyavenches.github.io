@@ -16,6 +16,11 @@ SUMMARY:VBC Bulle F5 - Volley Avenches F5
 LOCATION:Vudalla - Ecole primaire de la Condémine\, Rue de la Vudalla\, 16
  30 Bulle
 GEO:46.6179619;7.0608252
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vudalla - Ecole primaire d
+ e la Condémine, Rue de la Vudalla, 1630 Bulle";X-APPLE-RADIUS=10;X-TITLE=
+ "Vudalla - Ecole primaire de la Condémine":geo:46.6179619,7.0608252
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.6179619&mlon=7.0608252&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409626@volleyavenches.ch
@@ -26,6 +31,11 @@ SUMMARY:Volley Avenches F5 - TV Murten Volleyball F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409630@volleyavenches.ch
@@ -36,6 +46,11 @@ SUMMARY:Volley Avenches F5 - VBC Fribourg F5a
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409636@volleyavenches.ch
@@ -45,6 +60,10 @@ DTEND:20261010T200000Z
 SUMMARY:VBC Sense F5 - Volley Avenches F5
 LOCATION:MZG 2\, Oberdorfstrasse\, 1715 Alterswil
 GEO:46.7956431;7.2620079
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MZG 2, Oberdorfstrasse, 17
+ 15 Alterswil";X-APPLE-RADIUS=10;X-TITLE="MZG 2":geo:46.7956431,7.2620079
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7956431&mlon=7.2620079&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409644@volleyavenches.ch
@@ -54,6 +73,11 @@ DTEND:20261031T163000Z
 SUMMARY:VBC Bösingen F5 - Volley Avenches F5
 LOCATION:Spielhalle\, Fendringenstrasse\, 3178 Bösingen
 GEO:46.893568;7.2301877
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spielhalle, Fendringenstra
+ sse, 3178 Bösingen";X-APPLE-RADIUS=10;X-TITLE="Spielhalle":geo:46.893568,
+ 7.2301877
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.893568&mlon=7.2301877&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409654@volleyavenches.ch
@@ -64,6 +88,11 @@ SUMMARY:Volley Avenches F5 - Volley Grapa F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409658@volleyavenches.ch
@@ -73,6 +102,11 @@ DTEND:20261121T140000Z
 SUMMARY:VUF F5 - Volley Avenches F5
 LOCATION:PER20\, Boulevard de Pérolles\, 1700 Fribourg
 GEO:46.7937007;7.157685
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="PER20, Boulevard de Pérol
+ les, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="PER20":geo:46.7937007,7.157
+ 685
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7937007&mlon=7.157685&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409660@volleyavenches.ch
@@ -82,7 +116,11 @@ DTEND:20261124T213000Z
 SUMMARY:SFG Montagny-Cousset F5 - Volley Avenches F5
 LOCATION:Halle de Gymnastique\, Route des Buissons\, 1774 Cousset
 GEO:46.8204299;6.9782817
-DESCRIPTION:Résultat : 0 - 3
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Gymnastique, Rout
+ e des Buissons, 1774 Cousset";X-APPLE-RADIUS=10;X-TITLE="Halle de Gymnasti
+ que":geo:46.8204299,6.9782817
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.82042
+ 99&mlon=6.9782817&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409674@volleyavenches.ch
@@ -93,6 +131,11 @@ SUMMARY:Volley Vully F5 - Volley Avenches F5
 LOCATION:Salle polyvalente la Jordila\, chemin de la Vieille laiterie \, 17
  89 Lugnorre
 GEO:46.9504702;7.0737774
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle polyvalente la Jordi
+ la, chemin de la Vieille laiterie , 1789 Lugnorre";X-APPLE-RADIUS=10;X-TIT
+ LE="Salle polyvalente la Jordila":geo:46.9504702,7.0737774
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9504702&mlon=7.0737774&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409665@volleyavenches.ch
@@ -103,6 +146,11 @@ SUMMARY:Volley Avenches F5 - VBC Fribourg F5b
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409678@volleyavenches.ch
@@ -113,6 +161,11 @@ SUMMARY:Volley Avenches F5 - VBC Bulle F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409681@volleyavenches.ch
@@ -122,6 +175,11 @@ DTEND:20270109T193000Z
 SUMMARY:TV Murten Volleyball F5 - Volley Avenches F5
 LOCATION:Thurnhalle Prehl 3 \, Wilerweg\, 3280 Murten
 GEO:46.9220625;7.1195625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Thurnhalle Prehl 3 , Wiler
+ weg, 3280 Murten";X-APPLE-RADIUS=10;X-TITLE="Thurnhalle Prehl 3 ":geo:46.9
+ 220625,7.1195625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9220625&mlon=7.1195625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409685@volleyavenches.ch
@@ -131,6 +189,11 @@ DTEND:20270116T170000Z
 SUMMARY:VBC Fribourg F5a - Volley Avenches F5
 LOCATION:Salle du Belluard A\, Derrière-les-Remparts\, 1700 Fribourg
 GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du Belluard A, Derri
+ ère-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle du Bell
+ uard A":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409691@volleyavenches.ch
@@ -141,6 +204,11 @@ SUMMARY:Volley Avenches F5 - VBC Sense F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409699@volleyavenches.ch
@@ -151,6 +219,11 @@ SUMMARY:Volley Avenches F5 - VBC Bösingen F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409709@volleyavenches.ch
@@ -160,6 +233,11 @@ DTEND:20270209T213000Z
 SUMMARY:Volley Grapa F5 - Volley Avenches F5
 LOCATION:PEV - Granges-Marnand\, Sentier Sous-Bosset\, 1523 Valbroye
 GEO:46.761392599686;6.8857723121643
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="PEV - Granges-Marnand, Sen
+ tier Sous-Bosset, 1523 Valbroye";X-APPLE-RADIUS=10;X-TITLE="PEV - Granges-
+ Marnand":geo:46.761392599686,6.8857723121643
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.761392599686&mlon=6.8857
+ 723121643&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409713@volleyavenches.ch
@@ -170,6 +248,11 @@ SUMMARY:Volley Avenches F5 - VUF F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409715@volleyavenches.ch
@@ -180,7 +263,11 @@ SUMMARY:Volley Avenches F5 - SFG Montagny-Cousset F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
-DESCRIPTION:Résultat : 3 - 0
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.87881
+ 25&mlon=7.0355625&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409720@volleyavenches.ch
@@ -190,6 +277,11 @@ DTEND:20270306T170000Z
 SUMMARY:VBC Fribourg F5b - Volley Avenches F5
 LOCATION:Salle du Belluard A\, Derrière-les-Remparts\, 1700 Fribourg
 GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du Belluard A, Derri
+ ère-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle du Bell
+ uard A":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409729@volleyavenches.ch
@@ -200,5 +292,10 @@ SUMMARY:Volley Avenches F5 - Volley Vully F5
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 END:VCALENDAR

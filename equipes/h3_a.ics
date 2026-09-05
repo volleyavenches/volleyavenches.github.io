@@ -16,6 +16,11 @@ SUMMARY:CAP Volley H3 - Volley Avenches H3A
 LOCATION:Salle Ecole Prez-Vers-Noréaz\, au village\, 1746 Prez-Vers-Noréa
  z
 GEO:46.784413631343;7.0139122009277
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle Ecole Prez-Vers-Nor
+ éaz, au village, 1746 Prez-Vers-Noréaz";X-APPLE-RADIUS=10;X-TITLE="Salle
+  Ecole Prez-Vers-Noréaz":geo:46.784413631343,7.0139122009277
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.784413631343&mlon=7.0139
+ 122009277&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409477@volleyavenches.ch
@@ -26,6 +31,11 @@ SUMMARY:Volley Avenches H3A - Volley Estavayer H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409481@volleyavenches.ch
@@ -35,6 +45,10 @@ DTEND:20260929T203000Z
 SUMMARY:Volley GraPa H3 - Volley Avenches H3A
 LOCATION:Les Rammes
 GEO:46.81689;6.9342395
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Les Rammes";X-APPLE-RADIUS
+ =10;X-TITLE="Les Rammes":geo:46.81689,6.9342395
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.81689&mlon=6.9342395&zoo
+ m=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409485@volleyavenches.ch
@@ -45,6 +59,11 @@ SUMMARY:Volley Avenches H3A - VBC Fribourg H3a
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409489@volleyavenches.ch
@@ -54,6 +73,11 @@ DTEND:20261030T220000Z
 SUMMARY:CS Le Mouret H3 - Volley Avenches H3A
 LOCATION:Centre sportif A\, Route d'Oberried\, 1724 Le Mouret
 GEO:46.7471086;7.1785158
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Centre sportif A, Route d'
+ Oberried, 1724 Le Mouret";X-APPLE-RADIUS=10;X-TITLE="Centre sportif A":geo
+ :46.7471086,7.1785158
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7471086&mlon=7.1785158&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409493@volleyavenches.ch
@@ -64,6 +88,11 @@ SUMMARY:Volley Vully H3 - Volley Avenches H3A
 LOCATION:Salle polyvalente la Jordila\, chemin de la Vieille laiterie \, 17
  89 Lugnorre
 GEO:46.9504702;7.0737774
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle polyvalente la Jordi
+ la, chemin de la Vieille laiterie , 1789 Lugnorre";X-APPLE-RADIUS=10;X-TIT
+ LE="Salle polyvalente la Jordila":geo:46.9504702,7.0737774
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9504702&mlon=7.0737774&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409497@volleyavenches.ch
@@ -74,6 +103,11 @@ SUMMARY:Volley Avenches H3A - Volley Düdingen H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409501@volleyavenches.ch
@@ -84,6 +118,11 @@ SUMMARY:Volley Avenches H3A - CAP Volley H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409505@volleyavenches.ch
@@ -94,6 +133,11 @@ SUMMARY:Volley Avenches H3A - Volley Estavayer H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409509@volleyavenches.ch
@@ -104,6 +148,11 @@ SUMMARY:Volley Avenches H3A - Volley GraPa H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409513@volleyavenches.ch
@@ -113,6 +162,11 @@ DTEND:20261211T220000Z
 SUMMARY:VBC Fribourg H3a - Volley Avenches H3A
 LOCATION:Salle du Belluard A\, Derrière-les-Remparts\, 1700 Fribourg
 GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du Belluard A, Derri
+ ère-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle du Bell
+ uard A":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409517@volleyavenches.ch
@@ -123,6 +177,11 @@ SUMMARY:Volley Avenches H3A - CS Le Mouret H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409521@volleyavenches.ch
@@ -133,6 +192,11 @@ SUMMARY:Volley Avenches H3A - Volley Vully H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409525@volleyavenches.ch
@@ -142,6 +206,11 @@ DTEND:20270115T213000Z
 SUMMARY:Volley Düdingen H3 - Volley Avenches H3A
 LOCATION:Leimacker 2\, Leimacker \, 3186 Düdingen
 GEO:46.845297;7.1994595
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Leimacker 2, Leimacker , 3
+ 186 Düdingen";X-APPLE-RADIUS=10;X-TITLE="Leimacker 2":geo:46.845297,7.199
+ 4595
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.845297&mlon=7.1994595&zo
+ om=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409529@volleyavenches.ch
@@ -152,6 +221,11 @@ SUMMARY:CAP Volley H3 - Volley Avenches H3A
 LOCATION:Salle Ecole Prez-Vers-Noréaz\, au village\, 1746 Prez-Vers-Noréa
  z
 GEO:46.784413631343;7.0139122009277
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle Ecole Prez-Vers-Nor
+ éaz, au village, 1746 Prez-Vers-Noréaz";X-APPLE-RADIUS=10;X-TITLE="Salle
+  Ecole Prez-Vers-Noréaz":geo:46.784413631343,7.0139122009277
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.784413631343&mlon=7.0139
+ 122009277&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409533@volleyavenches.ch
@@ -162,6 +236,11 @@ SUMMARY:Volley Avenches H3A - Volley Estavayer H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409537@volleyavenches.ch
@@ -171,6 +250,10 @@ DTEND:20270202T213000Z
 SUMMARY:Volley GraPa H3 - Volley Avenches H3A
 LOCATION:Les Rammes
 GEO:46.81689;6.9342395
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Les Rammes";X-APPLE-RADIUS
+ =10;X-TITLE="Les Rammes":geo:46.81689,6.9342395
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.81689&mlon=6.9342395&zoo
+ m=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409541@volleyavenches.ch
@@ -181,6 +264,11 @@ SUMMARY:Volley Avenches H3A - VBC Fribourg H3a
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409545@volleyavenches.ch
@@ -190,6 +278,11 @@ DTEND:20270226T220000Z
 SUMMARY:CS Le Mouret H3 - Volley Avenches H3A
 LOCATION:Centre sportif A\, Route d'Oberried\, 1724 Le Mouret
 GEO:46.7471086;7.1785158
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Centre sportif A, Route d'
+ Oberried, 1724 Le Mouret";X-APPLE-RADIUS=10;X-TITLE="Centre sportif A":geo
+ :46.7471086,7.1785158
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7471086&mlon=7.1785158&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409549@volleyavenches.ch
@@ -200,6 +293,11 @@ SUMMARY:Volley Vully H3 - Volley Avenches H3A
 LOCATION:Salle polyvalente la Jordila\, chemin de la Vieille laiterie \, 17
  89 Lugnorre
 GEO:46.9504702;7.0737774
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle polyvalente la Jordi
+ la, chemin de la Vieille laiterie , 1789 Lugnorre";X-APPLE-RADIUS=10;X-TIT
+ LE="Salle polyvalente la Jordila":geo:46.9504702,7.0737774
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9504702&mlon=7.0737774&z
+ oom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409553@volleyavenches.ch
@@ -210,5 +308,10 @@ SUMMARY:Volley Avenches H3A - Volley Düdingen H3
 LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
 END:VEVENT
 END:VCALENDAR
