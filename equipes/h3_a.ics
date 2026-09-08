@@ -66,6 +66,20 @@ DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
  oom=17
 END:VEVENT
 BEGIN:VEVENT
+UID:game-422008@volleyavenches.ch
+DTSTAMP:20261027T194500Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214500Z
+SUMMARY:VBC Chatel-St-Denis H3 - Volley Avenches H3A (Coupe)
+LOCATION:Halle de Lussy 1-3\, Route du Lac Lussy\, 1618 Châtel-Saint-Denis
+GEO:46.5403091;6.8960588
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Lussy 1-3, Route 
+ du Lac Lussy, 1618 Châtel-Saint-Denis";X-APPLE-RADIUS=10;X-TITLE="Halle d
+ e Lussy 1-3":geo:46.5403091,6.8960588
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.5403091&mlon=6.8960588&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
 UID:game-409489@volleyavenches.ch
 DTSTAMP:20261030T200000Z
 DTSTART:20261030T200000Z
