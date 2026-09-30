@@ -47,8 +47,8 @@ LOCATION:Les Rammes
 GEO:46.81689;6.9342395
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Les Rammes";X-APPLE-RADIUS
  =10;X-TITLE="Les Rammes":geo:46.81689,6.9342395
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.81689&mlon=6.9342395&zoo
- m=17
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.81689
+ &mlon=6.9342395&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409485@volleyavenches.ch
