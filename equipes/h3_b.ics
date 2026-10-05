@@ -47,8 +47,8 @@ GEO:46.722246390563;7.0603597814534
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A,
   Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle de 
  sport Pra Novi A":geo:46.722246390563,7.0603597814534
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.722246390563&mlon=7.0603
- 597814534&zoom=17
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.72224
+ 6390563&mlon=7.0603597814534&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409570@volleyavenches.ch
