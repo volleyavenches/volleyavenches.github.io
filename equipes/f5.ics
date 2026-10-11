@@ -77,8 +77,8 @@ LOCATION:MZG 2\, Oberdorfstrasse\, 1715 Alterswil
 GEO:46.7956431;7.2620079
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MZG 2, Oberdorfstrasse, 17
  15 Alterswil";X-APPLE-RADIUS=10;X-TITLE="MZG 2":geo:46.7956431,7.2620079
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7956431&mlon=7.2620079&z
- oom=17
+DESCRIPTION:Résultat : 2 - 3\nhttps://www.openstreetmap.org/?mlat=46.79564
+ 31&mlon=7.2620079&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409644@volleyavenches.ch
