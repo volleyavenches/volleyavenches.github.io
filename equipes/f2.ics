@@ -27,7 +27,7 @@ UID:game-417915@volleyavenches.ch
 DTSTAMP:20260921T183000Z
 DTSTART:20260921T183000Z
 DTEND:20260921T203000Z
-SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobilière Volley Cup)
+SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobiliar Volley Cup)
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
@@ -111,9 +111,9 @@ DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8208233&mlon=7.2575311&z
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409765@volleyavenches.ch
-DTSTAMP:20261119T194500Z
-DTSTART:20261119T194500Z
-DTEND:20261119T214500Z
+DTSTAMP:20261123T194500Z
+DTSTART:20261123T194500Z
+DTEND:20261123T214500Z
 SUMMARY:Volley Avenches F2 - Gibloux Volley F2A
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
