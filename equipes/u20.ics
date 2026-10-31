@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Volley Avenches//Calendrier des matchs//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Volley Avenches U20
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:game-417777@volleyavenches.ch
+DTSTAMP:20260914T173000Z
+DTSTART:20260914T173000Z
+DTEND:20260914T193000Z
+SUMMARY:Volley Grapa F20 - Volley Avenches U20
+LOCATION:PEV - Granges-Marnand\, Sentier Sous-Bosset\, 1523 Valbroye
+GEO:46.761392599686;6.8857723121643
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="PEV - Granges-Marnand, Sen
+ tier Sous-Bosset, 1523 Valbroye";X-APPLE-RADIUS=10;X-TITLE="PEV - Granges-
+ Marnand":geo:46.761392599686,6.8857723121643
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.76139
+ 2599686&mlon=6.8857723121643&zoom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417778@volleyavenches.ch
+DTSTAMP:20260921T164500Z
+DTSTART:20260921T164500Z
+DTEND:20260921T184500Z
+SUMMARY:Volley Avenches U20 - TSV Gurmels F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.87881
+ 25&mlon=7.0355625&zoom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417795@volleyavenches.ch
+DTSTAMP:20261002T174500Z
+DTSTART:20261002T174500Z
+DTEND:20261002T194500Z
+SUMMARY:VBC Sense F20 - Volley Avenches U20
+LOCATION:MZG 1\, Oberdorfstrasse\, 1715 Alterswil
+GEO:46.7956431;7.2620079
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MZG 1, Oberdorfstrasse, 17
+ 15 Alterswil";X-APPLE-RADIUS=10;X-TITLE="MZG 1":geo:46.7956431,7.2620079
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.79564
+ 31&mlon=7.2620079&zoom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417789@volleyavenches.ch
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:VBC Kerzers F20 - Volley Avenches U20
+LOCATION:Schmittengässli\, Schulhausstrasse\, 3210 Kerzers
+GEO:46.9733864;7.1967656
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Schmittengässli, Schulhau
+ sstrasse, 3210 Kerzers";X-APPLE-RADIUS=10;X-TITLE="Schmittengässli":geo:4
+ 6.9733864,7.1967656
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.97338
+ 64&mlon=7.1967656&zoom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417801@volleyavenches.ch
+DTSTAMP:20261026T174500Z
+DTSTART:20261026T174500Z
+DTEND:20261026T194500Z
+SUMMARY:Volley Avenches U20 - Volley Düdingen F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.87881
+ 25&mlon=7.0355625&zoom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417806@volleyavenches.ch
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Volley Avenches U20 - VBC Ueberstorf F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417811@volleyavenches.ch
+DTSTAMP:20261109T174500Z
+DTSTART:20261109T174500Z
+DTEND:20261109T194500Z
+SUMMARY:Volley Avenches U20 - VBC Bulle F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417819@volleyavenches.ch
+DTSTAMP:20261121T110000Z
+DTSTART:20261121T110000Z
+DTEND:20261121T130000Z
+SUMMARY:VBC Schmitten F20 - Volley Avenches U20
+LOCATION:Gwatt\, Gwattstrasse\, 3185 Schmitten
+GEO:46.8582129;7.2561859
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwatt, Gwattstrasse, 3185 
+ Schmitten";X-APPLE-RADIUS=10;X-TITLE="Gwatt":geo:46.8582129,7.2561859
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8582129&mlon=7.2561859&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417823@volleyavenches.ch
+DTSTAMP:20261123T174500Z
+DTSTART:20261123T174500Z
+DTEND:20261123T194500Z
+SUMMARY:Volley Avenches U20 - VBC Fribourg F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417833@volleyavenches.ch
+DTSTAMP:20261207T174500Z
+DTSTART:20261207T174500Z
+DTEND:20261207T194500Z
+SUMMARY:Volley Avenches U20 - TV Murten Volleyball F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417829@volleyavenches.ch
+DTSTAMP:20261212T120000Z
+DTSTART:20261212T120000Z
+DTEND:20261212T140000Z
+SUMMARY:VBC Bösingen F20 - Volley Avenches U20
+LOCATION:Spielhalle\, Fendringenstrasse\, 3178 Bösingen
+GEO:46.893568;7.2301877
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spielhalle, Fendringenstra
+ sse, 3178 Bösingen";X-APPLE-RADIUS=10;X-TITLE="Spielhalle":geo:46.893568,
+ 7.2301877
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.893568&mlon=7.2301877&zo
+ om=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417843@volleyavenches.ch
+DTSTAMP:20261214T174500Z
+DTSTART:20261214T174500Z
+DTEND:20261214T194500Z
+SUMMARY:Volley Avenches U20 - Volley Grapa F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417844@volleyavenches.ch
+DTSTAMP:20270110T100000Z
+DTSTART:20270110T100000Z
+DTEND:20270110T120000Z
+SUMMARY:TSV Gurmels F20 - Volley Avenches U20
+LOCATION:SSK Cordast\, Dorfstrasse\, 1792 Cordast
+GEO:46.8743257;7.15166
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SSK Cordast, Dorfstrasse, 
+ 1792 Cordast";X-APPLE-RADIUS=10;X-TITLE="SSK Cordast":geo:46.8743257,7.151
+ 66
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8743257&mlon=7.15166&zoo
+ m=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417855@volleyavenches.ch
+DTSTAMP:20270111T174500Z
+DTSTART:20270111T174500Z
+DTEND:20270111T194500Z
+SUMMARY:Volley Avenches U20 - VBC Kerzers F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417885@volleyavenches.ch
+DTSTAMP:20270116T130000Z
+DTSTART:20270116T130000Z
+DTEND:20270116T150000Z
+SUMMARY:Volley Avenches U20 - VBC Schmitten F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417861@volleyavenches.ch
+DTSTAMP:20270118T174500Z
+DTSTART:20270118T174500Z
+DTEND:20270118T194500Z
+SUMMARY:Volley Avenches U20 - VBC Sense F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417867@volleyavenches.ch
+DTSTAMP:20270131T160000Z
+DTSTART:20270131T160000Z
+DTEND:20270131T180000Z
+SUMMARY:Volley Düdingen F20 - Volley Avenches U20
+LOCATION:Leimacker 2\, Leimacker \, 3186 Düdingen
+GEO:46.845297;7.1994595
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Leimacker 2, Leimacker , 3
+ 186 Düdingen";X-APPLE-RADIUS=10;X-TITLE="Leimacker 2":geo:46.845297,7.199
+ 4595
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.845297&mlon=7.1994595&zo
+ om=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417872@volleyavenches.ch
+DTSTAMP:20270206T130000Z
+DTSTART:20270206T130000Z
+DTEND:20270206T150000Z
+SUMMARY:VBC Ueberstorf F20 - Volley Avenches U20
+LOCATION:MZH Ueberstorf\, Dorfstrasse\, 3182 Ueberstorf
+GEO:46.8661413;7.3141253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="MZH Ueberstorf, Dorfstrass
+ e, 3182 Ueberstorf";X-APPLE-RADIUS=10;X-TITLE="MZH Ueberstorf":geo:46.8661
+ 413,7.3141253
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8661413&mlon=7.3141253&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417877@volleyavenches.ch
+DTSTAMP:20270222T184500Z
+DTSTART:20270222T184500Z
+DTEND:20270222T204500Z
+SUMMARY:VBC Bulle F20 - Volley Avenches U20
+LOCATION:Vudalla - Ecole primaire de la Condémine\, Rue de la Vudalla\, 16
+ 30 Bulle
+GEO:46.6179619;7.0608252
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vudalla - Ecole primaire d
+ e la Condémine, Rue de la Vudalla, 1630 Bulle";X-APPLE-RADIUS=10;X-TITLE=
+ "Vudalla - Ecole primaire de la Condémine":geo:46.6179619,7.0608252
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.6179619&mlon=7.0608252&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417889@volleyavenches.ch
+DTSTAMP:20270227T090000Z
+DTSTART:20270227T090000Z
+DTEND:20270227T110000Z
+SUMMARY:VBC Fribourg F20 - Volley Avenches U20
+LOCATION:Salle Belluard B\, Derrière-les-Remparts\, 1700 Fribourg
+GEO:46.8094796;7.1567148
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle Belluard B, Derrièr
+ e-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle Belluard B
+ ":geo:46.8094796,7.1567148
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417895@volleyavenches.ch
+DTSTAMP:20270301T174500Z
+DTSTART:20270301T174500Z
+DTEND:20270301T194500Z
+SUMMARY:Volley Avenches U20 - VBC Bösingen F20
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
+UID:game-417899@volleyavenches.ch
+DTSTAMP:20270313T123000Z
+DTSTART:20270313T123000Z
+DTEND:20270313T143000Z
+SUMMARY:TV Murten Volleyball F20 - Volley Avenches U20
+LOCATION:Turnhalle Prehl 1\, Wilerweg\, 3280 Murten
+GEO:46.9220582;7.1195898
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Turnhalle Prehl 1, Wilerwe
+ g, 3280 Murten";X-APPLE-RADIUS=10;X-TITLE="Turnhalle Prehl 1":geo:46.92205
+ 82,7.1195898
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.9220582&mlon=7.1195898&z
+ oom=17
+END:VEVENT
+END:VCALENDAR
