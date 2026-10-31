@@ -90,8 +90,8 @@ GEO:46.7471086;7.1785158
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Centre sportif A, Route d'
  Oberried, 1724 Le Mouret";X-APPLE-RADIUS=10;X-TITLE="Centre sportif A":geo
  :46.7471086,7.1785158
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7471086&mlon=7.1785158&z
- oom=17
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.74710
+ 86&mlon=7.1785158&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409493@volleyavenches.ch

@@ -61,8 +61,8 @@ GEO:46.5370818;6.8976626
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Lussy 1, Rte du L
  ac Lussy, 1618 Châtel-Saint-Denis";X-APPLE-RADIUS=10;X-TITLE="Halle de Lu
  ssy 1":geo:46.5370818,6.8976626
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.5370818&mlon=6.8976626&z
- oom=17
+DESCRIPTION:Résultat : 1 - 3\nhttps://www.openstreetmap.org/?mlat=46.53708
+ 18&mlon=6.8976626&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409574@volleyavenches.ch
