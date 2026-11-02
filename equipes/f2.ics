@@ -27,7 +27,7 @@ UID:game-417915@volleyavenches.ch
 DTSTAMP:20260921T183000Z
 DTSTART:20260921T183000Z
 DTEND:20260921T203000Z
-SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobiliar Volley Cup)
+SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobilière Volley Cup)
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
@@ -77,8 +77,8 @@ GEO:46.7216407;7.0612781
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A-
  B, Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle d
  e sport Pra Novi A-B":geo:46.7216407,7.0612781
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7216407&mlon=7.0612781&z
- oom=17
+DESCRIPTION:Résultat : 2 - 3\nhttps://www.openstreetmap.org/?mlat=46.72164
+ 07&mlon=7.0612781&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409758@volleyavenches.ch
