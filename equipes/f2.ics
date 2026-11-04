@@ -96,6 +96,20 @@ DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
  oom=17
 END:VEVENT
 BEGIN:VEVENT
+UID:game-424758@volleyavenches.ch
+DTSTAMP:20261111T193000Z
+DTSTART:20261111T193000Z
+DTEND:20261111T213000Z
+SUMMARY:VBC Chatel-St-Denis F4 - Volley Avenches F2 (Coupe)
+LOCATION:Halle de Lussy 3\, Route du Lac Lussy\, 1618 Châtel-Saint-Denis
+GEO:46.5403091;6.8960588
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Lussy 3, Route du
+  Lac Lussy, 1618 Châtel-Saint-Denis";X-APPLE-RADIUS=10;X-TITLE="Halle de 
+ Lussy 3":geo:46.5403091,6.8960588
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.5403091&mlon=6.8960588&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
 UID:game-409764@volleyavenches.ch
 DTSTAMP:20261114T170000Z
 DTSTART:20261114T170000Z
