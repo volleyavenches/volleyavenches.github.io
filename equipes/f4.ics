@@ -80,6 +80,21 @@ DESCRIPTION:https://www.openstreetmap.org/?mlat=46.891653975883&mlon=7.1800
  804138184&zoom=17
 END:VEVENT
 BEGIN:VEVENT
+UID:game-424747@volleyavenches.ch
+DTSTAMP:20261116T194500Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:Volley Avenches F4 - VBC Schmitten F2 (Coupe)
+LOCATION:Halle des sports "Sous-Ville" 1\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
 UID:game-409957@volleyavenches.ch
 DTSTAMP:20261123T194500Z
 DTSTART:20261123T194500Z
