@@ -90,8 +90,8 @@ GEO:46.8788125;7.0355625
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
  lle^' 1, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
  lle des sports ^'Sous-Ville^' 1":geo:46.8788125,7.0355625
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
- oom=17
+DESCRIPTION:Résultat : 3 - 2\nhttps://www.openstreetmap.org/?mlat=46.87881
+ 25&mlon=7.0355625&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-417811@volleyavenches.ch
