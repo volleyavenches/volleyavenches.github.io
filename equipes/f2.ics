@@ -27,7 +27,7 @@ UID:game-417915@volleyavenches.ch
 DTSTAMP:20260921T183000Z
 DTSTART:20260921T183000Z
 DTEND:20260921T203000Z
-SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobiliar Volley Cup)
+SUMMARY:Volley Avenches F2 - Volley Muri Bern (Mobilière Volley Cup)
 LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
  hes
 GEO:46.8788125;7.0355625
@@ -106,8 +106,8 @@ GEO:46.5403091;6.8960588
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle de Lussy 3, Route du
   Lac Lussy, 1618 Châtel-Saint-Denis";X-APPLE-RADIUS=10;X-TITLE="Halle de 
  Lussy 3":geo:46.5403091,6.8960588
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.5403091&mlon=6.8960588&z
- oom=17
+DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.54030
+ 91&mlon=6.8960588&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409764@volleyavenches.ch
