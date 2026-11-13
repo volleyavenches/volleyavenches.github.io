@@ -138,6 +138,21 @@ DESCRIPTION:Résultat : 0 - 3\nhttps://www.openstreetmap.org/?mlat=46.82042
  99&mlon=6.9782817&zoom=17
 END:VEVENT
 BEGIN:VEVENT
+UID:game-424749@volleyavenches.ch
+DTSTAMP:20261126T194500Z
+DTSTART:20261126T194500Z
+DTEND:20261126T214500Z
+SUMMARY:Volley Avenches F5 - VBC Fribourg F3pro (Coupe)
+LOCATION:Halle des sports "Sous-Ville" 2\, Route de Sous-Ville\, 1580 Avenc
+ hes
+GEO:46.8788125;7.0355625
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Halle des sports ^'Sous-Vi
+ lle^' 2, Route de Sous-Ville, 1580 Avenches";X-APPLE-RADIUS=10;X-TITLE="Ha
+ lle des sports ^'Sous-Ville^' 2":geo:46.8788125,7.0355625
+DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8788125&mlon=7.0355625&z
+ oom=17
+END:VEVENT
+BEGIN:VEVENT
 UID:game-409674@volleyavenches.ch
 DTSTAMP:20261207T191500Z
 DTSTART:20261207T191500Z
