@@ -62,8 +62,8 @@ GEO:46.7216407;7.0612781
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle de sport Pra Novi A-
  B, Chemin des Cleyettes, 1726 Farvagny";X-APPLE-RADIUS=10;X-TITLE="Salle d
  e sport Pra Novi A-B":geo:46.7216407,7.0612781
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7216407&mlon=7.0612781&z
- oom=17
+DESCRIPTION:Résultat : 3 - 1\nhttps://www.openstreetmap.org/?mlat=46.72164
+ 07&mlon=7.0612781&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409947@volleyavenches.ch
@@ -76,8 +76,8 @@ GEO:46.8743257;7.15166
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="SSK Cordast, Dorfstrasse, 
  1792 Cordast";X-APPLE-RADIUS=10;X-TITLE="SSK Cordast":geo:46.8743257,7.151
  66
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8743257&mlon=7.15166&zoo
- m=17
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.87432
+ 57&mlon=7.15166&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-424747@volleyavenches.ch
