@@ -105,8 +105,8 @@ GEO:46.8094796;7.1567148
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Salle du Belluard A, Derri
  ère-les-Remparts, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="Salle du Bell
  uard A":geo:46.8094796,7.1567148
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8094796&mlon=7.1567148&z
- oom=17
+DESCRIPTION:Résultat : 1 - 3\nhttps://www.openstreetmap.org/?mlat=46.80947
+ 96&mlon=7.1567148&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409582@volleyavenches.ch
