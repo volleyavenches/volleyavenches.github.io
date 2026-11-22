@@ -120,8 +120,8 @@ GEO:46.7937007;7.157685
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="PER20, Boulevard de Pérol
  les, 1700 Fribourg";X-APPLE-RADIUS=10;X-TITLE="PER20":geo:46.7937007,7.157
  685
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.7937007&mlon=7.157685&zo
- om=17
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.79370
+ 07&mlon=7.157685&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-409660@volleyavenches.ch
