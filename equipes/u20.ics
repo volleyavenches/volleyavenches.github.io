@@ -118,8 +118,8 @@ LOCATION:Gwatt\, Gwattstrasse\, 3185 Schmitten
 GEO:46.8582129;7.2561859
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwatt, Gwattstrasse, 3185 
  Schmitten";X-APPLE-RADIUS=10;X-TITLE="Gwatt":geo:46.8582129,7.2561859
-DESCRIPTION:https://www.openstreetmap.org/?mlat=46.8582129&mlon=7.2561859&z
- oom=17
+DESCRIPTION:Résultat : 3 - 0\nhttps://www.openstreetmap.org/?mlat=46.85821
+ 29&mlon=7.2561859&zoom=17
 END:VEVENT
 BEGIN:VEVENT
 UID:game-417823@volleyavenches.ch
